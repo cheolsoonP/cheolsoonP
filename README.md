@@ -1,7 +1,19 @@
 ### Hi there 👋
+---
+
+<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheolsoonP&show_icons=true&theme=radical)
+
+
+
+
+
 
 <!--
 **cheolsoonP/cheolsoonP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
