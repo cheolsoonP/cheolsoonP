@@ -1,14 +1,17 @@
 ### Hi there 👋
 ---
 
-<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+### 📋 Available
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Redux
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheolsoonP&show_icons=true&theme=radical)
-
-
-
-
+### 🌱 project
+* [2020] Sinsun
+* [2021] Literacy Web
+* [2022] 한국어 학습 웹 어플리케이션
 
 
 <!--
