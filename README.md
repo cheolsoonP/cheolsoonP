@@ -3,7 +3,6 @@
 
 ### 📋 Available
 * JavaScript
-* TypeScript
 * React
 * Next.js
 * Redux
