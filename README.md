@@ -6,6 +6,7 @@
 * React
 * Next.js
 * Redux
+* Java
 
 ### 🌱 project
 * [2020] "Sinsun" 지역 반찬가게 플랫폼 어플
