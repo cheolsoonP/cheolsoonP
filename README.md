@@ -28,10 +28,6 @@
 <img src=https://img.shields.io/badge/Blog-%23000000.svg?&style=for-the-badge&logo=Gatsby&logoColor=black&color=ccbd9e alt=blog style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/niceha0" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-
 </center>
 
 <br/>
