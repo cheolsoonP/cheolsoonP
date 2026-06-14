@@ -61,6 +61,7 @@ I own the **VM Management System core engine**:
 
 - 🥇 **Grand Prize**, SSAFY 1st-semester project (Samsung SW Academy, 2023)
 - 🏅 **Encouragement Award**, 4th Open Infra Dev Contest (2022)
+- 🥈 **Silver Prize**, Soongsil University IT College SW Contest (2021)
 
 ---
 
