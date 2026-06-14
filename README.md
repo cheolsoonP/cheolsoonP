@@ -46,12 +46,20 @@ I own the **VM Management System core engine**:
 
 ---
 
-### 🎓 Education & 🏆 Awards
+### 🎓 Education
 
 - **B.S. in Software, Soongsil University** (2017–2023)
+
+### 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA)**
+- **SQLD** — SQL Developer (Korea Data Agency)
+- **Engineer Information Processing** (정보처리기사, 2024)
+
+### 🏆 Awards
+
 - 🥇 **Grand Prize**, SSAFY 1st-semester project (Samsung SW Academy, 2023)
 - 🏅 **Encouragement Award**, 4th Open Infra Dev Contest (2022)
-- 📜 Engineer Information Processing (정보처리기사, 2024)
 
 ---
 
