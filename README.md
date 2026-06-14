@@ -74,6 +74,6 @@ I own the **VM Management System core engine**:
 ### 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheolsoon-park-04935b228/)
-[![Blog](https://img.shields.io/badge/Blog-철테코-FF5544?style=flat&logo=tistory&logoColor=white)](https://cheoltecho.tistory.com)
+[![Blog](https://img.shields.io/badge/Blog-철테코-FF5544?style=flat&logo=astro&logoColor=white)](https://cheoltecho.github.io)
 [![Docs](https://img.shields.io/badge/CloudiA_Docs-GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)](https://ia-cloud.gitbook.io/cloudia-manual)
 [![Web](https://img.shields.io/badge/CloudiA-iacloud.kr-2563EB?style=flat)](https://iacloud.kr)
