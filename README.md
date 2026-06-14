@@ -52,9 +52,10 @@ I own the **VM Management System core engine**:
 
 ### 📜 Certifications
 
-- **AWS Certified Solutions Architect – Associate (SAA)**
-- **SQLD** — SQL Developer (Korea Data Agency)
+- **SQLD** — SQL Developer (Kdata, 2023)
+- **ADsP** — Data Analytics Semi-Professional (Kdata, 2025)
 - **Engineer Information Processing** (정보처리기사, 2024)
+- **AWS Certified Solutions Architect – Associate** (SAA-C02, 2021)
 
 ### 🏆 Awards
 
